@@ -1,0 +1,11 @@
+CustomerID,Segment,MonthlySpend,TenureMonths,SupportTicketsLast90d,DiscountSensitivity,DigitalEngagementScore,LastPurchaseDays,PlanType
+C001,Premium,3200,28,1,0.2,0.82,10,Gold
+C002,Mass,800,6,4,0.8,0.33,45,Silver
+C003,Premium,2600,36,0,0.3,0.91,5,Gold
+C004,Mass,650,14,3,0.7,0.40,60,Bronze
+C005,Value,1200,20,2,0.5,0.66,20,Silver
+C006,Premium,4100,48,1,0.1,0.95,7,Platinum
+C007,Mass,700,8,5,0.9,0.25,80,Bronze
+C008,Value,1500,18,2,0.6,0.59,25,Silver
+C009,Premium,2900,30,1,0.2,0.88,12,Gold
+C010,Mass,900,10,3,0.7,0.37,50,Bronze
